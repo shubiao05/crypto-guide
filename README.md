@@ -7,8 +7,16 @@
 <p>
 	2025-09-19
 </p>
-![wechat_group](https://github.com/user-attachments/assets/25c44e71-7200-427e-8c9f-087df566af5f)
 
+<p>
+	<strong>
+		欢迎加入微信群：
+	</strong>
+</p>
+
+<figure class="image">
+	<img style="aspect-ratio:540/530;" src="https://github.com/user-attachments/assets/965d0b4a-7e20-4ffb-be48-5d361644c17f" width="540" height="530"> 
+</figure>
 
 <p>
 	<strong>
